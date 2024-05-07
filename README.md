@@ -22,7 +22,7 @@ The database is made available by the platform itself, that is, we do not have a
 </div>
 
 ## <strong>Solutions</strong>
-> <font color='tomato'>To see my solutions, check out the file [**<queries.ipynb>**](./queries.ipynb)</font>
+> **To see my solutions, check out the file** [**<queries.ipynb>**](./queries.ipynb)
 
 - [001 - Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true)
 - [002 - Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true)

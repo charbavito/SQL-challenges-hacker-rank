@@ -1,9 +1,6 @@
 <div align='center'>
     <img src='./images/readme-image.png'>
 </div>
-<div align='center'>
-    <img src='./images/challenge-list.png'>
-</div>
 
 <h1 align='center'>SQL Challenges</h1>
 

@@ -25,6 +25,13 @@ The database is made available by the platform itself, that is, we do not have a
 - [002 - Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true)
 - [003 - Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)
 - [004 - Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true)
+- [005 - Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)
+- [006 - Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)
+- [007 - Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)
+- [008 - Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)
+- [009 - Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true)
+- [010 - Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)
+
 - ...
 
 - The rest of the challenges are still under development ... 
